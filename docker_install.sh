@@ -76,3 +76,4 @@ docker -v >> "$LOG_FILE" 2>&1
 
 echo "Docker installation finished at $(date)" >> "$LOG_FILE"
 echo "Installation complete. Check logs in $LOG_FILE"
+
