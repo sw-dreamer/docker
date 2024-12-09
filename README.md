@@ -129,6 +129,6 @@ Docker는 강력한 컨테이너화 기술로, 애플리케이션을 효율적�
 <hr/>
 
 ## 참조 링크
-[docker](https://hub.docker.com/)
+[docker] : https://hub.docker.com/
 
-[ibm](https://www.ibm.com/kr-ko/topics/kubernetes)
+[ibm] : https://www.ibm.com/kr-ko/topics/kubernetes
